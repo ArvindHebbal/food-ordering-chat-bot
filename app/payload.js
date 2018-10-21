@@ -1,0 +1,41 @@
+function define(name, value) {
+    Object.defineProperty(exports, name, {
+        value: value,
+        enumerable: true
+    });
+}
+
+//define("LOGIN", "LOGIN");
+define("RESTART", "RESTART");
+define("GET_STARTED", "GET_STARTED");
+define("SHARE", "SHARE");
+define("NEARBY_OUTLET", "NEARBY_OUTLET");
+define("DISPLAY_NEARBY_OUTLETS", "DISPLAY_NEARBY_OUTLETS");
+define("SEE_STORES", "SEE_STORES");
+define("DELIVERY", "DELIVERY");
+define("ONLINE", "ONLINE");
+define('SALAD', 'SALAD');
+define('BREAKFAST', 'BREAKFAST');
+define('BURGER', 'BURGER');
+define('CATEGORIES', 'CATEGORIES');
+define('CATEGORY', 'CATEGORY');
+define('ADD_TO_CART', 'ADD_TO_CART');
+define('UNDER_CONSTRUCTION', 'UNDER_CONSTRUCTION');
+define('UNDER_CONSTRUCTION2', 'UNDER_CONSTRUCTION2');
+define('UNDER_CONSTRUCTION3','UNDER_CONSTRUCTION3');
+define('UNDER_CONSTRUCTION4','UNDER_CONSTRUCTION4');
+define('UNDER_CONSTRUCTION5','UNDER_CONSTRUCTION5')
+define('DISPLAY_CART', 'DISPLAY_CART');
+define('SHOW_CART', 'SHOW_CART');
+define('REMOVE_FROM_CART', 'REMOVE_FROM_CART');
+define('CHECK_OUT', 'CHECK_OUT');
+define('PLACE_ORDER', 'PLACE_ORDER');
+define('ASK_LONG_LAT', 'ASK_LONG_LAT');
+define('TRACK_ORDER_STATUS', 'TRACK_ORDER_STATUS');
+define('VIEW_ORDER', 'VIEW_ORDER');
+define('CHECK_CART', 'CHECK_CART');
+define('VIEW_DESCRIPTION','VIEW_DESCRIPTION');
+define('ADDRESS_INFO','ADDRESS_INFO');
+define('LOCATION_ADDRESS','LOCATION_ADDRESS');
+define('FEEDBACK','FEEDBACK');
+define('VIEW_SPECIFICATION','VIEW_SPECIFICATION');

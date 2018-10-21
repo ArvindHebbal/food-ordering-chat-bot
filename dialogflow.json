@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "food-ordering-bot-75fa8",
+  "private_key_id": "13a885995a969ceeeee6879d8a88c876929fb499",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDH8q1u6/N3aQxZ\nkXg/Pnc9lA2Y4a8uSm/V1CSDDJW39Av1y4zY3aaVykDtgBHO1V/m3//PQjE6CjGT\n3W07xIiJbNM/m9+xSPWIkRimrkW01uF6dmtm0coQOYrouYbtyhpE/vV+xyTT1nKv\njkPBaXeB/hCQ/X0wQSrATN5W0qlJKb6GfwI8kbnbi3VWnT8cWo8+pCXjULsZnn8B\nzf8tu4IQC5vgYyfKUHOChHex5igCt/WvrBzP49FhnX9GvvozV+zZ7BsVtkz2dcPb\n22hpOooUFl7xsTp5eDlQEJWHnLbjL14Ya4EazpsFb/GDoNE6Qd8s8PU4tp4cPEWm\n/XkSExVdAgMBAAECggEAFSoJ05jkH3qeFQkB2mfpRTpbqhgRa+vzJIYdC0YUvvD1\nJyJRmU706BwNfVY2DFennA+Py0dtYIBduRISEuZ9sVY0kiIUrnZTjw4Utufxdu/b\n1BOe0LZaFheRLYsdziO7XhxCrhW0PzwOzahYYauhO8BBzqcWTjpHpS09x6DqzFSP\n7BDW6wjYB/9ApoHYw5tE2tYIq8YtUjZYrEkoKeatW+BTwHktcacn08b8sVaTU4S3\nSIYwXkPlWrGJ1oafnGTACTGxKG5yXCNvzF0eesCvKRxRaGUtW5zL+b7sAmJJlRRU\n3SpQ5pMIh4bm3Xxxu0v4BmNwu0F/oTo+wpetE9EyIQKBgQDpSUbrcK46MxCjeOhB\nR9J4nVue8kb8ya6P7aWYHc0vHjNTkcmKDcaBMqPMpbBRn5Rwljf+d5X6lx68MNne\n0j3Htf/MTTfp8qiZaIubWxjVScEekRtTGGtMNobBaONBTkSRizPeBuFt8l92XFw0\nEsg/AKmZV42umNZH+NEBXwCHFQKBgQDbam9MIHGJvRkvnCXel9Ly3did5xRnr2tF\nE95uZ2X0rC65bH6bFe8eTbUH4pK8cMqgZjIQrIIbx2YzmiPpaUgJidxaN/5zKDIi\n5H98dmpDBjW3ecTkI6yWD6bq6kYGtbpF30jCAc8rbhbsum2RnOnM9fCFOQTPrPTY\nVwc+exRnKQKBgHV9+WD0xFr9gwDCET9nm+IxZoacARKpxOgqSX9eawuzCyiowTdt\njq9dQM/+FtpVI968WYEo23l1CP7BH8mwW3ss96L+tQ13sGBrHfzlmZE6bzAk5v0n\nzEp7H81jNSmb8L7YvAuzrW/BZUDobWuwlffdLo3TYcEwqqNe9mzZWxutAoGBAIY4\nU6ED77BMZs3C/T9vLHG417uwEcFjg4EcKGLtCWdktKhlAAWqoz2sV2NdbFmtvaXl\nHhcpD+YiUhia4AD2kESVeqANxK95FUJW+M2QOmyJre5wpMrSL88UAA2QBgowvKPl\ndMKJDMwKaieh20jJ7hOdFubH/HN138k/Y4ULEW4RAoGBALNTOnjnukeGDsNrHGFU\n0lmfZf/KhYu4z8MENSlwTDi/b76qI6QH1OpZT2fVb76TAF+KYdx9TcCnmf0+q7ae\nMcNW/+rv7QLp7/6QbkJ+DF6BucamLetomkoipER0RE3MRyMPK8gdRh4MoS0JwLxm\nGMyOOGaUlbQbWzs0nJNBM+q7\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-cxgtdf@food-ordering-bot-75fa8.iam.gserviceaccount.com",
+  "client_id": "100355846309524573618",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-cxgtdf%40food-ordering-bot-75fa8.iam.gserviceaccount.com"
+}

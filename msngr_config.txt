@@ -1,0 +1,7 @@
+curl -X POST -H "Content-Type: application/json" -d '{"setting_type" : "call_to_actions","thread_state" : "existing_thread","call_to_actions" : [{"type":"postback","title":"Login","payload":"LOGIN"},{"type":"postback","title":"My Calendar","payload":"MYCALENDAR_IN_PERSISTENTMENU"},{"type":"postback","title":"Restart","payload":"RESTART"},{"type":"postback","title":"App Links","payload":"MORE_FEATURES"}]}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=EAAVZCMsblRZBABAIlR0TDseghbZA4j6xfEgPIBnInZAbKCwMQPaqIHJBMnSWEva0yuqtfKAzPZAUpQyNnW75NdlFD53aGpfBZC7Hcon4ApmvjoqhsRY2RTBc9llYL8Y66gT0OHhnX3NK69rAMZAcJm7tjkIleEhm1vQafcV7u1P4wZDZD"
+
+
+curl -X POST -H "Content-Type: application/json" -d '{"setting_type":"call_to_actions","thread_state":"new_thread","call_to_actions":[{"payload":"GET_STARTED" }]}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=EAAVZCMsblRZBABAIlR0TDseghbZA4j6xfEgPIBnInZAbKCwMQPaqIHJBMnSWEva0yuqtfKAzPZAUpQyNnW75NdlFD53aGpfBZC7Hcon4ApmvjoqhsRY2RTBc9llYL8Y66gT0OHhnX3NK69rAMZAcJm7tjkIleEhm1vQafcV7u1P4wZDZD"  
+
+
+curl -X POST -H "Content-Type: application/json" -d '{ "setting_type":"greeting", "greeting":{ "text":"Hi {{user_first_name}}. TimeNote bot allows you to explore any city in the world as a city guide. You can also check your calendar and see your day." }}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=EAAVZCMsblRZBABAIlR0TDseghbZA4j6xfEgPIBnInZAbKCwMQPaqIHJBMnSWEva0yuqtfKAzPZAUpQyNnW75NdlFD53aGpfBZC7Hcon4ApmvjoqhsRY2RTBc9llYL8Y66gT0OHhnX3NK69rAMZAcJm7tjkIleEhm1vQafcV7u1P4wZDZD"
